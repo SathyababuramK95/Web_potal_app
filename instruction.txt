@@ -1,0 +1,5 @@
+Instructions :
+
+1. Download and unzip the file.
+2. run the server using node server.js in the server root
+3. run th app(client) using npm start in the Web_portal folder.
